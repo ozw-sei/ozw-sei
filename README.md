@@ -13,3 +13,4 @@
 - Elixir
 - Typescript
 - WebGL
+- React
