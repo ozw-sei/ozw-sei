@@ -1,7 +1,6 @@
 # Hey 👋, I'm ozw-sei
 
 ## 興味関心
-- **Emacs**
 - Unity Game Development
 - HTML5 Game Development
 - Software Architecture
